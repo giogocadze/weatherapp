@@ -4,7 +4,6 @@ A simple and responsive weather application built with **HTML**, **CSS**, and **
 It fetches real-time weather data using the **Weather.com API** and 
 allows users to search weather conditions by **country or city**.
 
-![Weather App Screenshot](./screenshot.png) <!-- Replace or remove if no screenshot yet -->
 
 ---
 
